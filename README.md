@@ -3,7 +3,7 @@
 Name : Netrapal Singh
 BITS ID : 2022mt93201
 
-The GitHub URL is https://github.com/netrapalsingh/CPAD-Assignmen.git
+The GitHub URL is https://github.com/netrapalsingh/CPAD-Assignment.git
 
 ## Documentation
 For Better Reading Experience it is in Both DOC and PDF format.
